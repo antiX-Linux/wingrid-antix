@@ -1,0 +1,4 @@
+changelog.gz                   /usr/share/doc/wingrid-antix
+copyright                      /usr/share/doc/wingrid-antix
+wingrid.conf                   /etc/skel/.config/wingrid
+bin/*                          /usr/local/bin 
